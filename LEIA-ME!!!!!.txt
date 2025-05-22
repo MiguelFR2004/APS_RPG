@@ -1,0 +1,5 @@
+O arquivo .jar pode ser usado para executar o jogo, desde que o computador tenha o JDK ou JRE necessário.
+
+O código do jogo pode ser encontrado na pasta Projeto_APS2\core\src\main\java\io\github\projeto_aps
+
+Para compilar o jogo pelo código, use o comando gradle Projeto_APS2/Tasks/application/run
